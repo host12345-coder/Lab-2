@@ -1,2 +1,3 @@
 console.writeline(“My name is Muhammad Bin Tariq");
 console.writeline("My roll no. is 062");
+console.writeline(" 2 semester subjects: English,oops,");
